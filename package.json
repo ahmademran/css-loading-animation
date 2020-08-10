@@ -1,0 +1,24 @@
+{
+  "name": "css-loading-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmademran/css-loading-animation.git"
+  },
+  "keywords": [],
+  "author": "Ahmad Bassam Emran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/css-loading-animation/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/css-loading-animation#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
